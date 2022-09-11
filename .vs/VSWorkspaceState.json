@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CSharpMasterkurs_HangmanProjekt",
+    "\\CSharpMasterkurs_HangmanProjekt\\CSharpMasterkurs_HangmanProjekt"
   ],
-  "SelectedNode": "\\F:\\[programming]\\C#Masterkurs\\HangmanProjekt",
+  "SelectedNode": "\\CSharpMasterkurs_HangmanProjekt\\CSharpMasterkurs_HangmanProjekt\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

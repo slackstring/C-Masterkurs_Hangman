@@ -1,0 +1,15 @@
+F:\[programming]\C#Masterkurs\HangmanProjekt\CSharpMasterkurs_HangmanProjekt\CSharpMasterkurs_HangmanProjekt\bin\Debug\net6.0\CSharpMasterkurs_HangmanProjekt.exe
+F:\[programming]\C#Masterkurs\HangmanProjekt\CSharpMasterkurs_HangmanProjekt\CSharpMasterkurs_HangmanProjekt\bin\Debug\net6.0\CSharpMasterkurs_HangmanProjekt.deps.json
+F:\[programming]\C#Masterkurs\HangmanProjekt\CSharpMasterkurs_HangmanProjekt\CSharpMasterkurs_HangmanProjekt\bin\Debug\net6.0\CSharpMasterkurs_HangmanProjekt.runtimeconfig.json
+F:\[programming]\C#Masterkurs\HangmanProjekt\CSharpMasterkurs_HangmanProjekt\CSharpMasterkurs_HangmanProjekt\bin\Debug\net6.0\CSharpMasterkurs_HangmanProjekt.dll
+F:\[programming]\C#Masterkurs\HangmanProjekt\CSharpMasterkurs_HangmanProjekt\CSharpMasterkurs_HangmanProjekt\bin\Debug\net6.0\CSharpMasterkurs_HangmanProjekt.pdb
+F:\[programming]\C#Masterkurs\HangmanProjekt\CSharpMasterkurs_HangmanProjekt\CSharpMasterkurs_HangmanProjekt\obj\Debug\net6.0\CSharpMasterkurs_HangmanProjekt.csproj.AssemblyReference.cache
+F:\[programming]\C#Masterkurs\HangmanProjekt\CSharpMasterkurs_HangmanProjekt\CSharpMasterkurs_HangmanProjekt\obj\Debug\net6.0\CSharpMasterkurs_HangmanProjekt.GeneratedMSBuildEditorConfig.editorconfig
+F:\[programming]\C#Masterkurs\HangmanProjekt\CSharpMasterkurs_HangmanProjekt\CSharpMasterkurs_HangmanProjekt\obj\Debug\net6.0\CSharpMasterkurs_HangmanProjekt.AssemblyInfoInputs.cache
+F:\[programming]\C#Masterkurs\HangmanProjekt\CSharpMasterkurs_HangmanProjekt\CSharpMasterkurs_HangmanProjekt\obj\Debug\net6.0\CSharpMasterkurs_HangmanProjekt.AssemblyInfo.cs
+F:\[programming]\C#Masterkurs\HangmanProjekt\CSharpMasterkurs_HangmanProjekt\CSharpMasterkurs_HangmanProjekt\obj\Debug\net6.0\CSharpMasterkurs_HangmanProjekt.csproj.CoreCompileInputs.cache
+F:\[programming]\C#Masterkurs\HangmanProjekt\CSharpMasterkurs_HangmanProjekt\CSharpMasterkurs_HangmanProjekt\obj\Debug\net6.0\CSharpMasterkurs_HangmanProjekt.dll
+F:\[programming]\C#Masterkurs\HangmanProjekt\CSharpMasterkurs_HangmanProjekt\CSharpMasterkurs_HangmanProjekt\obj\Debug\net6.0\refint\CSharpMasterkurs_HangmanProjekt.dll
+F:\[programming]\C#Masterkurs\HangmanProjekt\CSharpMasterkurs_HangmanProjekt\CSharpMasterkurs_HangmanProjekt\obj\Debug\net6.0\CSharpMasterkurs_HangmanProjekt.pdb
+F:\[programming]\C#Masterkurs\HangmanProjekt\CSharpMasterkurs_HangmanProjekt\CSharpMasterkurs_HangmanProjekt\obj\Debug\net6.0\CSharpMasterkurs_HangmanProjekt.genruntimeconfig.cache
+F:\[programming]\C#Masterkurs\HangmanProjekt\CSharpMasterkurs_HangmanProjekt\CSharpMasterkurs_HangmanProjekt\obj\Debug\net6.0\ref\CSharpMasterkurs_HangmanProjekt.dll
