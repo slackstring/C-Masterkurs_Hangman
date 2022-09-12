@@ -71,7 +71,7 @@ namespace ProjektHangman
                 char[] userResult = new char[wort.Length];
                 for(int k=0; k<wort.Length; k++)
                 {
-                    userResult[k] = '_';                  
+                    userResult[k]= '_';                  
                 }
                
                 
@@ -90,7 +90,7 @@ namespace ProjektHangman
                         Console.Write("X");
                     }
                     Console.WriteLine("\n\nGebe einen Buchstaben ein:");
-                    char input = Convert.ToChar(Console.ReadLine());
+                    char input = Convert.ToChar(Console.ReadLine().ToLower());
                     for (int i=0; i < wort.Length; i++)
                     {
                         if (input == wort[i])
